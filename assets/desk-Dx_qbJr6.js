@@ -1,0 +1,1 @@
+import{o as e}from"./useStore-Bwb3bsWW.js";import{$ as t}from"./index-DgHrMr3g.js";import{n,t as r}from"./require-session-C1CDPa7n.js";var i=e();function a(){return(0,i.jsx)(r,{role:`operator`,children:(0,i.jsx)(n,{kind:`desk`,children:(0,i.jsx)(t,{})})})}export{a as component};
